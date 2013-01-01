@@ -17,4 +17,5 @@
 # Ignore sublime project files
 /*.sublime*
 
+# Ignore anything ends with ignore extentions
 /*.ignore
